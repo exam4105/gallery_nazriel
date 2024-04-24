@@ -1,0 +1,10 @@
+.nav-link {
+    font-weight: 500;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+.bg-hero{
+    background: url('../img/Pemandangan2.jpg') no-repeat center center;
+    background-size: cover;
+}
